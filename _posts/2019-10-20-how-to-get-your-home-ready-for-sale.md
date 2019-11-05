@@ -3,7 +3,9 @@ layout: post
 title: How to Get Your Home Ready for Sale
 date: 2019-10-20 00:00:00
 tags:
-excerpt:
+excerpt: >-
+  Getting your home ready to sell involves more than just packing all of your
+  property in boxes and leaving. It begins right from the time you move in.
 enclosure:
 pullquote:
 enclosure_type:

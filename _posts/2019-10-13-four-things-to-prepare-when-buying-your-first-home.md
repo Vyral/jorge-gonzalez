@@ -4,9 +4,10 @@ title: Four Things to Prepare When Buying Your First Home
 date: 2019-10-13 00:00:00
 tags:
   - Home Buyer Tips
+  - Real Estate
 excerpt: >-
-  Homebuying can be an enjoyable experience if you put in steps to get ready for
-  the process well before it gets started.
+  Home buying can be an enjoyable experience if you put in steps to get ready
+  for the process well before it gets started.
 enclosure:
 pullquote:
 enclosure_type:

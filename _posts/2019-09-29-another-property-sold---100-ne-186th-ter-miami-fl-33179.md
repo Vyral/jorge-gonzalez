@@ -3,8 +3,8 @@ layout: post
 title: 'Another Property Sold - 100 NE 186th Ter, Miami, FL 33179'
 date: 2019-09-29 00:00:00
 tags:
-excerpt:
-enclosure: Excellent Duplex with good rental income and strong and stable tenants.
+excerpt: Excellent Duplex with good rental income and strong and stable tenants.
+enclosure:
 pullquote:
 enclosure_type:
 enclosure_time:

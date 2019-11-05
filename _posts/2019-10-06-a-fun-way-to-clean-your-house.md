@@ -3,7 +3,9 @@ layout: post
 title: A Fun Way to Clean Your House
 date: 2019-10-06 00:00:00
 tags:
-excerpt:
+excerpt: >-
+  Take a few minutes each day to clean your home and you will save so much time
+  throughout the week.
 enclosure:
 pullquote:
 enclosure_type:

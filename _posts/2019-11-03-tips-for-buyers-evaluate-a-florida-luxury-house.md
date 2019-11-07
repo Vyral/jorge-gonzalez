@@ -4,12 +4,7 @@ title: 'Tips for Buyers: Evaluate a Florida Luxury House'
 date: 2019-11-03 00:00:00
 tags:
   - Home Buyer Tips
-  - buying a home
-  - florida real estate
-  - luxury home
-excerpt: >-
-  If you want to acquire a luxury residence in Tampa Bay, St. Augustine or
-  anywhere else in Florida, it helps to evaluate properties closely.
+excerpt: Three tips to help you analyze Florida luxury homes.
 enclosure:
 pullquote:
 enclosure_type:

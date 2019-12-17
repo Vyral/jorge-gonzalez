@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s the Difference Between a Buyer’s Market and a Seller’s Market?
-date: 2019-12-16 18:41:34
+date: 2019-12-16 18:41:00
 tags:
   - Real Estate
 excerpt: >-
@@ -21,11 +21,11 @@ youtube_code: m3MGkKmLPEM
 
 {% include youtube.html %}<br>&nbsp;
 
-Whenever people ask me how the market is, I always tell them the same thing: It depends. Specifically, it depends on whether you’re buying or selling. If you’re selling, it depends where your home is priced at.&nbsp;
+Whenever people ask me how the market is, I always tell them the same thing: It depends. Specifically, it depends on whether you’re buying or selling. If you’re selling, it depends how your home is priced.&nbsp;
 
 Real estate is local. In fact, I would call it sub-local. What’s the difference between a buyer’s market and a seller’s market, then? **A buyer’s market simply means buyers have more control, and a seller’s market means sellers have more control.** There are several important statistics agents look at to distinguish one from the other.&nbsp;
 
-The first market is **the** **homes’ average days on market,** or how long properties in a specific neighborhood stay on the market before going under contract. If the average is short, that’s an indication of a seller’s market. If the average is long, that means buyers have more control.&nbsp;
+The first metric is **the** **homes’ average days on market,** or how long properties in a specific neighborhood stay on the market before going under contract. If the average is short, that’s an indication of a seller’s market. If the average is long, that means buyers have more control.&nbsp;
 
 {% include pullquote.html %}
 

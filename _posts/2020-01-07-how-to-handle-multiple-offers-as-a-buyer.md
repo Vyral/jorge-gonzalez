@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Handle Multiple Offers as a Buyer
-date: 2020-01-07 16:34:49
+date: 2020-01-07 16:34:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -27,6 +27,6 @@ I was recently working with some clients who were looking to make the leap to ho
 
 In a situation like this, a lowball offer simply won’t work. Somebody is going to offer the full price, and maybe even offer above it. However, a full-priced offer won’t always work. Sometimes you’ll need to be generous on terms or offer more than the asking price.
 
-**In a seller’s market like this, I always recommend this strategy in order to get the property under contract.** Once it’s under contract, there are certain places where we can negotiate to get you a little bit better deal. One example is a low appraisal, which gives us a lot more negotiation power.
+**In a seller’s market like this, I always recommend this strategy to get the property under contract.** Once it’s under contract, there are certain places where we can negotiate to get you a little bit better deal. One example is a low appraisal, which gives us a lot more negotiation power.
 
-If you are in the market to buy a house and you’re confronted with a situation like this, give me a call or send me an email. I’d be happy to share my experience in order to guide you through the process of becoming a homeowner. I look forward to hearing from you soon.
+If you are in the market to buy a house and you’re confronted with a situation like this, give me a call or send me an email. I’d be happy to share my experience to guide you through the process of becoming a homeowner. I look forward to hearing from you soon.

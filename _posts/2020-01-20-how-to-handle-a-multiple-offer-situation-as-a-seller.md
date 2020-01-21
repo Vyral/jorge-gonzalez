@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Handle a Multiple-Offer Situation as a Seller
-date: 2020-01-20 20:24:03
+date: 2020-01-20 20:24:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: pM_7ViOH_xc
 
 {% include youtube.html %}
 
-Navigating a multiple-offer situation as a seller is always a nice problem to have. My job as the Realtor in that case is to first notify the seller that there are multiple offers on the table. Then, from there, we have a couple of options for how to handle the buyers.&nbsp;
+Navigating a multiple-offer situation as a seller is always a nice problem to have. In those situations, my job as the Realtor is to first notify the seller that there are multiple offers on the table. From there, we have a couple of options for how to handle the buyers.&nbsp;
 
 We could simply choose an offer we like and accept it, but we want to see if that offer was really the buyer’s best one. We can’t really respond to more than one offer because of the possibility that more than one buyer will accept your counteroffer (naturally, you can’t go around promising one house to multiple people).&nbsp;
 
@@ -31,4 +31,4 @@ To make sure each buyer is putting their best foot forward, **we inform all of t
 
 Once the time frame is up and we’ve received each buyer’s final and best offer, we can start the decision-making process. We’ll sit down with you and scrutinize every offer. Remember, you can even counter the highest offer among all of those final offers. Maybe you want to try to refine some of the terms involved—you always have that power.&nbsp;
 
-**Whatever the case, I’ll be there as your partner, making sure we take advantage of the best strategy to get top dollar for your property.** If you’re thinking of selling your house, feel free to reach out to me. Let’s sit down, check out the data, review the market conditions and see how I can get you the highest price for your home in the quickest amount of time.
+**Whatever the case, I’ll be there as your partner, making sure we take advantage of the best strategy to get top dollar for your property.** If you’re thinking of selling your house, feel free to reach out to me. Let’s sit down, check out the data, review the market conditions, and see how I can get you the highest price for your home in the quickest amount of time.

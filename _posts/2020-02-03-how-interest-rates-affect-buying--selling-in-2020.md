@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Interest Rates Affect Buying & Selling in 2020
-date: 2020-02-03 17:46:17
+date: 2020-02-03 17:46:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/interest-rates-youtube.jpg
-youtube_code: VeScp-H4UWQ
+youtube_code: DwG2fCD5R0E
 ---
 
 {% include youtube.html %}

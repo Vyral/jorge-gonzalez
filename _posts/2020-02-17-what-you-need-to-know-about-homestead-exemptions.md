@@ -30,7 +30,9 @@ So if you bought a house last year, it’s your primary residence, and you’ve 
 
 How much does it save on your property taxes? The homestead exemption is always worth $50,000, so if your home’s assessed value is $300,000, you’d only be taxed for $250,000. Depending on your municipality within the county, that could be a substantial amount since you’re carrying that exemption for however long you stay in the house.&nbsp;
 
-In some situations, it’s a prerequisite for people to apply for additional exemptions. If you’re a widower with a homestead exemption, you’ll be eligible for additional benefits, as is also the case for blind people and disabled veterans. There are all kinds of exemptions you can qualify for, so if you’d like to know more, use the following links:
+In some situations, it’s a prerequisite for people to apply for additional exemptions. If you’re a widower with a homestead exemption, you’ll be eligible for additional benefits, as is also the case for blind people and disabled veterans.
+
+There are all kinds of exemptions you can qualify for, so if you’d like to know more, use the following links to file for your homestead exemption:
 
 * [Miami-Dade County](https://www.miamidade.gov/Apps/PA/PAOnlineTools/AutoOnlineFile/ExemptionOnlineMainMenu.aspx){: target="_blank"}
 * [Broward County](https://bcpasecure.net/homesteadonline/web/index.aspx){: target="_blank"}

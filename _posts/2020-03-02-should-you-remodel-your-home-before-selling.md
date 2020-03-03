@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should You Remodel Your Home Before Selling?
-date: 2020-03-02 21:43:12
+date: 2020-03-02 21:43:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -22,7 +22,7 @@ youtube_code: DuuBYx72wiI
 
 Have you ever thought about selling your house, but think that you need to do some work to it before you sell? Today we’re talking about the pros and cons of making improvements and remodels on your home before you sell it.
 
-Many times, Realtors are going to encourage you to do some staging, which is a term for making your property look the best it can so you can get the highest price. Staging requires careful planning, and **if your house is dated compared to what else is on the market, you’ll need to start the planning early.&nbsp;**
+Many times, Realtors will encourage you to do some staging, which is a term for making your property look the best it can so you can get the highest price. Staging requires careful planning, and **if your house is dated compared to what else is on the market, you’ll need to start the planning early.&nbsp;**
 
 Realtors are generally happy to advise you to make any and every repair because that makes the property easier to sell. However, it’s not always in your best interest. I take a more consultative approach. The top price isn’t actually what matters. **What really matters is what you net at the end of the transaction.**
 

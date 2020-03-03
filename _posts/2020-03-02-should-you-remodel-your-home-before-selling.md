@@ -28,7 +28,7 @@ Realtors are generally happy to advise you to make any and every repair because 
 
 {% include pullquote.html %}
 
-I’ve seen buyers spend $20,000 renovating their kitchen, but only sold their home for $10,000 more than they could have if they didn’t do anything. That’s a net loss. We don’t want that to happen to you.
+I’ve seen sellers spend $20,000 renovating their kitchen, but only sold their home for $10,000 more than they could have if they didn’t do anything. That’s a net loss. We don’t want that to happen to you.
 
 **You need to know which home improvements are going to increase your ROI and your bottom line.** The focus is not on the highest sale price, it’s on the highest net profit from the sale.
 

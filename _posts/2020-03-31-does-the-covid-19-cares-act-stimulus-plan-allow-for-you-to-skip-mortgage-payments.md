@@ -1,7 +1,7 @@
 ---
 layout: post
 title: >-
-  Does the COVID-19 Cares Act Stimulus Plan allow for you to Skip Mortgage
+  Does the COVID-19 Cares Act Stimulus Plan Allow for You to Skip Mortgage
   Payments?
 date: 2020-03-31 21:08:00
 tags:

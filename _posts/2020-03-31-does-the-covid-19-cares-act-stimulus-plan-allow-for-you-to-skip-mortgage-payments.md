@@ -1,6 +1,8 @@
 ---
 layout: post
-title: How COVID-19 Affects Your Mortgage
+title: >-
+  Does the COVID-19 Cares Act Stimulus Plan allow for you to Skip Mortgage
+  Payments?
 date: 2020-03-31 21:08:00
 tags:
   - Real Estate

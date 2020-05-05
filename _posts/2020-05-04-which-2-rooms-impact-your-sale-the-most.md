@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Which 2 Rooms Impact Your Sale the Most?
-date: 2020-03-16 18:46:00
+date: 2020-05-04 18:46:00
 tags:
   - Home Seller Tips
 excerpt: >-

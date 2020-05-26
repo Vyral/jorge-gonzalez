@@ -1,10 +1,10 @@
 audit_header: false
 title: Miami Real Estate Video Blog with Jorge Gonzalez
 description: Our mission at Team Dad of Eight is to be your best resource for Miami real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Team Dad of Eight, your professional Miami Real Estate Agents.
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Download Search App
+    url: https://www.kw.com/download/KW23SSTPI
 show_custom_links_new_tab: false
 custom_links_new_tab:
   - title:

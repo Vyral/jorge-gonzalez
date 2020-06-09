@@ -40,7 +40,7 @@ Has your income been affected due to the pandemic? Have you been considering ski
 
 Remember to **be careful when taking advantage of these types of programs** because sometimes not having full understanding can come back and bite you. However, if you truly need help, there are options for you.&nbsp;
 
-<u>Additional Resources:</u><br>**[Guide to Coronavirus Mortgage Relief Options](https://www.consumerfinance.gov/about-us/blog/guide-coronavirus-mortgage-relief-options/){: target="_blank"}**<br>**[USA TODAY -&nbsp; Forbearance Article](https://www.usatoday.com/story/money/2020/05/18/forbearance-offers-breathing-room-homeowners-but-there-risks/5208828002/){: target="_blank"}**
+**<u>Additional Resources:</u>**<br>**[Guide to Coronavirus Mortgage Relief Options](https://www.consumerfinance.gov/about-us/blog/guide-coronavirus-mortgage-relief-options/){: target="_blank"}**<br>**[USA TODAY -&nbsp; Forbearance Article](https://www.usatoday.com/story/money/2020/05/18/forbearance-offers-breathing-room-homeowners-but-there-risks/5208828002/){: target="_blank"}**
 
 There’s much more than what can be discussed in a single video. If you have questions or want more information about forbearance, give me a call or send an email. I can help you find answers and provide clarity on these slightly murky waters. Be on the lookout for future videos\!
 

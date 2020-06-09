@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Update About Mortgage Forbearance
-date: 2020-06-08 18:59:30
+date: 2020-06-08 18:59:00
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -18,7 +18,7 @@ youtube_code: DPgBJXmbP_Y
 
 {% include youtube.html %}
 
-Has your income been affected due to the pandemic? Have you been considering skipping mortgage payments by taking advantage of programs available? Today’s message is an update to the video I did about [mortgage forbearance in March](https://dadof8talksre.com/does-the-covid-19-cares-act-stimulus-plan-allow-for-you-to-skip-mortgage-payments.html){: target="_blank"}. If needed, watch March’s video here. Today I’ll be explaining what’s happened since March, what to know before taking forbearance, your options, and more.
+Has your income been affected due to the pandemic? Have you been considering skipping mortgage payments by taking advantage of programs available? Today’s message is an update to the video I did about [mortgage forbearance in March](https://dadof8talksre.com/does-the-covid-19-cares-act-stimulus-plan-allow-for-you-to-skip-mortgage-payments.html){: target="_blank"}. Today I’ll be explaining what’s happened since March, what to know before taking forbearance, your options, and more.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message, or use these timestamps to browse specific topics at your leisure:&nbsp;**
 

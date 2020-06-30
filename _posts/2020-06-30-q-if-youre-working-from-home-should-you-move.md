@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: If You’re Working From Home, Should You Move?'
-date: 2020-06-30 19:53:11
+date: 2020-06-30 19:53:00
 tags:
   - Home Seller Tips
 excerpt: Here’s what homeowners have been telling me about working at home.
@@ -37,6 +37,6 @@ The other day, I was talking to someone who mentioned their growing interest in 
 
 **To read more about people wanting to move because of the pandemic,**[**read this article.**](http://blog.rismedia.com/2020/zillow-survey-home-offices/){: target="_blank"}
 
-To read more about how remote working provides different living opportunities, [read this article](https://www.zillow.com/research/coronavirus-remote-work-suburbs-27046/){: target="_blank"} from Zillow.
+To read more about how remote working provides different living opportunities, **[read this article](https://www.zillow.com/research/coronavirus-remote-work-suburbs-27046/){: target="_blank"}** from Zillow.
 
 I’d love the opportunity to talk to you about making this kind of move if you’re truly interested. We can cover all of the bases and find out how feasible selling would be for you. Give me a call, text, or email, and let’s chat about it. **There may be a unique opportunity out there for you** to improve both your work and home life without breaking the bank. I look forward to hearing from you soon\!

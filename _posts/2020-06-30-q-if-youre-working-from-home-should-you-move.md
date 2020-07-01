@@ -21,7 +21,7 @@ youtube_code: 8ospe08Ey3A
 
 We’ve been hearing feedback from a lot of people that they enjoy working from home and that they hope to continue working at home well into the future—at least part of the time. Those folks fortunate enough to be able to work from their homes are also wondering about the coming school year; will they have to continue homeschooling or remote learning, or will the situation at that time allow for a return to schools?&nbsp;
 
-Some people have made makeshift arrangements in a corner of their bedroom or taken over the dining room to get things done. They’re making due because they realize it will be temporary. But **how long is ‘temporary’ going to be?** Likely, things won’t return to normal for while yet.&nbsp;
+Some people have made makeshift arrangements in a corner of their bedroom or taken over the dining room to get things done. They’re making due because they realize it will be temporary. But **how long is ‘temporary’ going to be?** Likely, things won’t return to normal for a while yet.&nbsp;
 
 People working from home are doing so because they have no other choice, but they still want to optimize their environments so they can work comfortably and efficiently. It’s no wonder then that more and more homeowners are starting to question whether their house is still the right fit for them given these circumstances.&nbsp;
 
@@ -35,7 +35,7 @@ Some of the places that are frequently mentioned in my conversations include are
 
 The other day, I was talking to someone who mentioned their growing interest in Jupiter. As he explained it, one can find relatively affordable property that accommodates a home office and is also on a waterway. For boating and fishing enthusiasts like himself, that’s a game-changer. Though he’s still in exploration mode, this gentleman represents just one of many people who are seriously considering selling their homes in Miami to get property elsewhere in the state.&nbsp;
 
-**To read more about people wanting to move because of the pandemic,**[**read this article.**](http://blog.rismedia.com/2020/zillow-survey-home-offices/){: target="_blank"}
+**To read more about people wanting to move because of the pandemic,&nbsp;**[**read this article.**](http://blog.rismedia.com/2020/zillow-survey-home-offices/){: target="_blank"}
 
 To read more about how remote working provides different living opportunities, **[read this article](https://www.zillow.com/research/coronavirus-remote-work-suburbs-27046/){: target="_blank"}** from Zillow.
 

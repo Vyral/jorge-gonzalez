@@ -17,7 +17,7 @@ youtube_code: 7yaQau-p4u4
 
 {% include youtube.html %}
 
-A home like this selling quickly is the rule right now, not the exception.
+<p style="text-align: center;"><em>A home like this selling quickly is the rule right now, not the exception.</em></p>
 
 I’m standing outside of a marvelous listing in Coral Gables, Florida, which is the metropolitan area of Miami known for its elegant style and beautiful landscaping. This property certainly fits the area, as its landscaping and backyard pool offer resort living at its finest. That being said, I’m only showing you this property because it—like so many others—is proof that our market has heated up in the months since COVID hit.&nbsp;
 

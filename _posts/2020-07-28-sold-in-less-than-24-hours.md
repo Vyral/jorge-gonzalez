@@ -29,6 +29,8 @@ Last Friday, the property in this video went live on the market. We marketed it 
 
 Before I went to bed last Friday, I already had two offers come in, one of which I sent to the sellers for review. They countered, and that counteroffer was ultimately accepted, but not before I received a bunch of appointment requests from interested buyers Saturday morning. **This property went under contract in less than 24 hours at top dollar\!**
 
-Someone who submitted an offer on Saturday morning said they’d be willing to be the backup offer if given the opportunity to view the house in person. Immediately prior to shooting this video, I had shown the house, and it looks like they’ll soon be submitting an official backup offer. If you’re a buyer in today’s market, you have to be aggressive. You need to be able to make offers quickly. If you’re not willing to make offers sight unseen, then you need to be doing everything you can to get yourself into that home before someone else wins out.&nbsp;
+Someone who submitted an offer on Saturday morning said they’d be willing to be the backup offer if given the opportunity to view the house in person. Immediately prior to shooting this video, I had shown the house, and it looks like they’ll soon be submitting an official backup offer. 
+
+If you’re a buyer in today’s market, you have to be aggressive. You need to be able to make offers quickly. If you’re not willing to make offers sight unseen, then you need to be doing everything you can to get yourself into that home before someone else wins out.&nbsp;
 
 Sellers, welcome to a fast ride. You’ll be able to sell your house in record time and for top dollar. If you’re considering selling, I advise you to give me a call, text, or email. I’d love to be able to discuss options with you and help maximize your sale.

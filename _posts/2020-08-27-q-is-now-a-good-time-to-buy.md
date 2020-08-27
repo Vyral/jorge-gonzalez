@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Is Now a Good Time to Buy?'
-date: 2020-08-27 16:41:03
+date: 2020-08-27 16:41:00
 tags:
   - Home Buyer Tips
 excerpt: Here are my thoughts on whether now is a good time for buyers to act.
@@ -25,7 +25,7 @@ As I highlighted in a prior video, right now is it a great time to sell, and thi
 
 1:19 — My honest, professional answer as to whether now is a good time to buy&nbsp;
 
-2:02 — Are you your next home as an investor?&nbsp;
+2:02 — Are you buying your next home as an investor?&nbsp;
 
 3:21 — Considering the predicted uptick in foreclosures nationwide and buying on the dip&nbsp;
 
@@ -37,4 +37,4 @@ As I highlighted in a prior video, right now is it a great time to sell, and thi
 
 7:51 — Altering your offer to make it more competitive is never something you should regret&nbsp;
 
-If you have questions about what other strategies to employ as a buyer in this hot seller’s market, or you’re ready to enter the market but want expert representation, please reach out to me. I’m always ready to help you achieve your real estate goals, no matter what market we find ourselves in.
+If you have questions about what other strategies to employ as a buyer in this hot seller’s market or you’re ready to enter the market but want expert representation, please reach out to me. I’m always ready to help you achieve your real estate goals, no matter what the market is doing.

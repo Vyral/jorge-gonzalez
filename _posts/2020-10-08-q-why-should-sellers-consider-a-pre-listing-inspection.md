@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Q: Why Do Sellers Need a Pre-Listing Inspection?'
-date: 2020-10-08 19:49:19
+title: 'Q: Why Should Sellers Consider a Pre-Listing Inspection?'
+date: 2020-10-08 19:49:00
 tags:
   - Home Seller Tips
 excerpt: Here’s why home inspections are more than just a buying contingency.
@@ -21,7 +21,7 @@ Whether you’re on the buying side of a transaction and want to make sure that 
 
 Just before recording this video, I spoke with one of my seller clients. In our conversation, I recommended that they order a pre-listing inspection. Why is that something a home seller should even consider? In this case, my seller’s property was built in the 1950s, and in a house that old, there’s always going to be some unpleasant surprises. If you’ve thoroughly decluttered, deep cleaned, and put a little elbow grease into your property, there could easily still be trouble lurking behind its walls and throughout its nooks and crannies.&nbsp;
 
-Is the attic secure? When’s the last time you had a thorough inspection of the foundation? **The first time you hear of a huge issue in your home shouldn't be when the buyer is doing their due diligence** at the point of sale. Sellers: If your house was built before 1975, you should strongly consider getting a home inspection before putting it on the market.&nbsp;
+Are there any signs of moisture in your attic? Are there any "double-taps" in my electrical panel? When’s the last time you had a thorough inspection of the plumbing system? **The first time you hear of a huge issue in your home shouldn't be when the buyer is doing their due diligence** at the point of sale. Sellers: If your house was built before 1975, you should strongly consider getting a home inspection before putting it on the market.&nbsp;
 
 There are two main areas of concern that usually come back to haunt a seller during the buyer’s due diligence period. The first problem area is the roof. If your roof is more than 20 years old, there’s a good chance it won’t pass the buyer’s inspection. It doesn’t matter if it’s a shingle, barrel (very popular here in Florida), or metal roof; most roofs won’t last longer than three decades. An inspector will more than likely raise a red flag on any roof that’s 20 years or older.&nbsp;
 

@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Q: How Will the Upcoming Refinance Fee Affect You?'
-date: 2020-10-27 19:32:29
+date: 2020-10-27 19:32:00
 tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: This is how the adverse market refinance fee could impact you soon.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jorge+Gonzalez/Q-+How+Will+the+Upcoming+Refinance+Fee+Affect+You_.mp4
 pullquote: >-
   On December 1, 2020, the Federal Housing Finance Agency (FHFA) will implement
   the adverse market refinance fee.

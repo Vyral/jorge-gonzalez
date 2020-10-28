@@ -26,7 +26,7 @@ All this activity caused by interest rates is negatively affecting banks, though
 
 {% include pullquote.html %}
 
-You see, the FHFA regulates mortgages sold to Fannie Mae and Freddie Mac, and most of the money that goes into regular mortgage lending comes from these companies. All the loan originator at your bank or brokerage does is originate the mortgage; after that, they sell on the secondary market. The two biggest buyers in this market are Fannie Mae and Freddie Mac.&nbsp;
+The FHFA regulates mortgages sold to Fannie Mae and Freddie Mac, and most of the money that goes into regular mortgage lending comes from these companies. All the loan originator at your bank or brokerage does is originate the mortgage; after that, they sell on the secondary market. The two biggest buyers in this market are Fannie Mae and Freddie Mac.&nbsp;
 
 **As of December 1, for every $100,000 you borrow for your refinance, you’ll have to pay $500 as an upfront closing fee.** Since this obviously increases the cost of your refinance, you’ll want to do this sooner rather than later to avoid this fee.&nbsp;
 

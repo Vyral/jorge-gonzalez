@@ -29,7 +29,7 @@ If you have a mortgage, I'm sure you're wondering **how you will be able to make
 
 Here are some additional links that may be helpful:
 
-[https://www.bankrate.com/mortgages/mortgage-rates/\#survey](https://www.bankrate.com/mortgages/everything-you-should-know-about-mortgage-forbearance/){: target="_blank"}<br><br>
+[https://www.bankrate.com/mortgages/mortgage-rates/\#survey](https://www.bankrate.com/mortgages/mortgage-rates/\#survey){: target="_blank"}<br><br>
 [https://www.bankrate.com/mortgages/everything-you-should-know-about-mortgage-forbearance/](https://www.bankrate.com/mortgages/everything-you-should-know-about-mortgage-forbearance/){: target="_blank"}<br><br>
 [https://www.knowyouroptions.com/options-to-stay-in-your-home/overview/forbearance](https://www.knowyouroptions.com/options-to-stay-in-your-home/overview/forbearance){: target="_blank"}<br><br>
 [https://www.investopedia.com/how-to-get-mortgage-relief-4800539](https://www.investopedia.com/how-to-get-mortgage-relief-4800539){: target="_blank"}<br><br>

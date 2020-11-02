@@ -36,7 +36,7 @@ Has your income been affected due to the pandemic? Have you been considering ski
 
 7:10: Forbearance will not be reported as missed payments.
 
-9:40: Wrapping up today’s topic
+9:40: Wrapping up today’s topic&nbsp;
 
 Remember to **be careful when taking advantage of these types of programs** because sometimes not having full understanding can come back and bite you. However, if you truly need help, there are options for you.&nbsp;
 

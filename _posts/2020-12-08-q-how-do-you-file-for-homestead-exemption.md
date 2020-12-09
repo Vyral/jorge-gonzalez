@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Do You File for Homestead Exemption?'
-date: 2020-12-08 20:14:40
+date: 2020-12-08 20:14:00
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -24,7 +24,7 @@ One of the perks of living in Florida is the fact that it’s a homestead state,
 
 If you’re interested in filing for homestead exemption, **there are certain things you have to do in order and by a certain date.** You only have to file once, but you have to do it by March 1. Your property tax assessor or appraiser should have a form available on their website that you have to submit (along with all proper documentation).
 
-In this application, you're declaring to the county assessor or appraiser that you’ve been living in your home as your primary residence as of January 1, and you have to prove this with certain documents. One of these is your driver’s license. If you don’t have a driver’s license, you can also use a Florida state identification card. In either case, these must show your updated address by January 1. If you’re a citizen and have a voter registration card, you’ll have to update that card with your correct address too by this date too. The same goes for the registration on your vehicle.&nbsp;
+In this application, you're declaring to the county assessor or appraiser that you’ve been living in your home as your primary residence as of January 1, and you have to prove this with certain documents. One of these is your driver’s license. If you don’t have a driver’s license, you can also use a Florida state identification card. In either case, these must show your updated address by January 1. If you’re a citizen and have a voter registration card, you’ll also have to update that card with your correct address by this date too. The same goes for the registration on your vehicle.&nbsp;
 
 {% include pullquote.html %}
 

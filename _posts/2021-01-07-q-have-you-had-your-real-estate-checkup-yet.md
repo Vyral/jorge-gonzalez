@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 'Q: Have You Had Your Real Estate Checkup Yet?'
-date: 2021-01-07 18:58:15
+date: 2021-01-07 18:58:00
 tags:
   - Real Estate
 excerpt: Now’s the time to conduct a real estate checkup for 2021.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jorge+Gonzalez/Q_+Have+You+Had+Your+Real+Estate+Checkup+Yet_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:

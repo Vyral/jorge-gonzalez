@@ -23,7 +23,7 @@ As we begin a new year, it’s common for many people to think about accomplishi
 
 1:27—How often do you think about the value your home has accumulated?&nbsp;
 
-2:30—Even if you own just one property, it’s important to analyze the value accumulated in your equity and consider redeploying it
+2:30—Whether you own multiple properties, or just one, it’s important to analyze the value accumulated in your equity and consider redeploying it
 
 4:09—My offer to calculate your home’s equity&nbsp;
 

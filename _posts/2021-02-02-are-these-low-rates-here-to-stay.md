@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are These Low Rates Here to Stay?
-date: 2021-02-02 19:25:01
+date: 2021-02-02 19:25:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s why I think rates will remain low in 2021—but not long after.
@@ -33,4 +33,4 @@ Will mortgage interest rates go up or down in 2021? What would be the market con
 
 5:04 — Buyers and refinancers: Act now before the window closes
 
-If you found this information helpful, stay tuned; I’ll be preparing another video that focuses on what will likely happen with real estate prices throughout 2021 and beyond. As always, reach out by phone or email if you have any questions about this or any other real estate topic. I’m happy to be a resource for you and assist with whatever buying, selling, or investing needs you may have.
+If you found this information helpful, stay tuned; I’ll be preparing another video that focuses on what will likely happen with real estate prices throughout 2021 and beyond. As always, reach out by phone or email if you have questions about this or any other real estate topic. I’m happy to be a resource for you and assist with whatever buying, selling, or investing needs you may have.

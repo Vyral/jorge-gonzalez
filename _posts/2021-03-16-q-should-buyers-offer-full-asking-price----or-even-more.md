@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Handle Multiple Offers as a Buyer
+title: 'Q: Should Buyers Offer Full Asking Price... or Even More?'
 date: 2021-03-16 08:34:00
 tags:
   - Home Buyer Tips

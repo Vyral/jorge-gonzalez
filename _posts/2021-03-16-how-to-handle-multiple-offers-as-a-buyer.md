@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Handle Multiple Offers as a Buyer
-date: 2020-01-07 16:34:00
+date: 2021-03-16 08:34:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -16,7 +16,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/mulitple-offer-situation-buyer-youtube.jpg
 youtube_code: zxj3JLNHjms
 ---
-
 {% include youtube.html %}
 
 If you’re a buyer faced with a situation where you know there’s a big buzz about a house you’re interested in, you may be looking at a multiple-offer situation. How should you proceed?

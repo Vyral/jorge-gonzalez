@@ -1,12 +1,13 @@
 ---
 layout: post
 title: What You Need to Know About Appraisals
-date: 2021-03-26 18:30:16
+date: 2021-03-26 18:30:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: What in the world is going on with appraisals these days?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jorge+Gonzalez/What+You+Need+to+Know+About+Appraisals.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:

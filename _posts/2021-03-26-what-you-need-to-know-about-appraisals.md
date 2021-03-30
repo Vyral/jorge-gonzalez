@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/appraisals-yt.jpg
-youtube_code: ndzkFkjSk9s
+youtube_code: lZgMciH-u1Q
 ---
 {% include youtube.html %}
 

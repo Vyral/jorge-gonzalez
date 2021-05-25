@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Buying & Selling Simultaneously
-date: 2021-05-25 17:22:21
+date: 2021-05-25 17:22:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: 'If you need to buy and sell in this market, you have options.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jorge+Gonzalez/Buying+%26+Selling+Simultaneously.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:

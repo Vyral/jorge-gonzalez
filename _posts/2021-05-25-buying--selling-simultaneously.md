@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/buying-and-selling-yt.jpg
-youtube_code: bY5XJ9dXNIU
+youtube_code: h_oqbyjC84w
 ---
 {% include youtube.html %}
 

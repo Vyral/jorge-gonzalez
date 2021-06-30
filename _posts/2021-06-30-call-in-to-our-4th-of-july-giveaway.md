@@ -19,7 +19,7 @@ This Sunday is the Fourth of July and my wife, who's always the more creative on
 
 **Here's how to enter:**
 
-**1\.** **Call us tomorrow at [305-239-8939](tel:305-239-8939){: target="_blank" rel="noopener"} between 9:00am and 3:00pm EST.**
+**1\.** **Call us on July 2nd at [305-239-8939](tel:305-239-8939){: target="_blank" rel="noopener"} between 9:00am and 3:00pm EST.**
 
 **2\.** You will answer a couple of easy questions in order to have your name entered into the contest.
 

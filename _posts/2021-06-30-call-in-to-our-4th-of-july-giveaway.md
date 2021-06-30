@@ -15,7 +15,7 @@ youtube_code: '-BTo8liVCos'
 ---
 {% include youtube.html %}
 
-This Sunday is the Fourth of July and my wife, who's always the more creative one of the two of us, thought of a great way of celebrating along with you. We are happy to announce that tomorrow, in honor of Independence Day, we are going to have a giveaway and we would love for all of you to call in and participate. We will be giving away your choice of a [Mac Daddy six-burner grill](https://www.lowes.com/pd/Char-Broil-Performance-Stainless-6-Burner-Liquid-Propane-Gas-Grill-with-1-Side-Burner/1000713050){: target="_blank" rel="noopener"} or a $500 gift card. Here's how to enter.
+This Sunday is the Fourth of July and my wife, who's always the more creative one of the two of us, thought of a great way of celebrating along with you. We are happy to announce that tomorrow, in honor of Independence Day, we are going to have a giveaway and we would love for all of you to call in and participate. We will be giving away your choice of a [Mac Daddy six-burner grill](https://www.lowes.com/pd/Char-Broil-Performance-Stainless-6-Burner-Liquid-Propane-Gas-Grill-with-1-Side-Burner/1000713050){: target="_blank" rel="noopener"} or a $500 gift card. Here's how to enter:
 
 **1\.** **Call us tomorrow at [305-239-8939](tel:305-239-8939){: target="_blank" rel="noopener"} between 9:00am and 3:00pm EST.**
 

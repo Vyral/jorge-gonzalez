@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Happy Thanksgiving
-date: 2021-11-16 20:50:21
+date: 2021-11-16 13:50:00
 tags:
     - Real Estate
 excerpt: Here is our short thank you to everyone who has supported us.

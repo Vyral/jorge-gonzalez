@@ -14,7 +14,11 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/rates-and-prices-yt.jpeg
 youtube_code: bQX-VD92DWk
 ---
-{% include youtube.html %}<br><br>{% include excerpt.html %}<br><br>The Federal Reserve recently announced that they increased the federal funds rate by 0.75%, which is the largest increase in decades. Many homeowners wonder if this will finally cause home prices to drop. The answer to that question isn’t cut and dry.&nbsp; **Prices aren’t just governed by mortgage interest rates, but also by supply and demand.**
+{% include youtube.html %}
+
+{% include excerpt.html %}
+
+The Federal Reserve recently announced that they increased the federal funds rate by 0.75%, which is the largest increase in decades. Many homeowners wonder if this will finally cause home prices to drop. The answer to that question isn’t cut and dry.&nbsp; **Prices aren’t just governed by mortgage interest rates, but also by supply and demand.**
 
 As interest rates rise, homebuyers’ purchasing power is reduced. That will directly impact buyer demand since that means many buyers will have to lower their desired price point if they want to be able to afford a home.
 

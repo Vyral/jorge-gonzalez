@@ -22,8 +22,10 @@ The Federal Reserve recently announced that they increased the federal funds rat
 
 As interest rates rise, homebuyers’ purchasing power is reduced. That will directly impact buyer demand since that means many buyers will have to lower their desired price point if they want to be able to afford a home.
 
-{% include pullquote.html %}<br><br>However, inventory has a bigger impact on home prices. We’re currently in a strong seller’s market with high demand and low inventory so sellers can wait for a buyer willing to pay their asking price. Some buyers will be discouraged and leave the market, but many more will face our conditions head-on and persevere until they find the home they want. Low supply will likely cause home prices to remain stable or grow over time, albeit slower than they were in the past. Home appreciation may also slow down, but **your property isn’t in danger of losing any value in this market.**
+{% include pullquote.html %}
 
-This is a complex topic to unpack, but I love talking about it. If you have any questions or would like to start the process of selling your home, give me a call or send me an email. I’d love to speak with you.
+However, inventory has a bigger impact on home prices. We’re currently in a strong seller’s market with high demand and low inventory so sellers can wait for a buyer willing to pay their asking price. Some buyers will be discouraged and leave the market, but many more will face our conditions head-on and persevere until they find the home they want. Low supply will likely cause home prices to remain stable or grow over time, albeit slower than they were in the past. Home appreciation may also slow down, but **your property isn’t in danger of losing any value in this market.**
+
+This is a complex topic to unpack, but I love talking about it. If you have any questions or would like to start the process of selling your home, give me a call or send an email. I’d love to speak with you.
 
 <br>&nbsp;

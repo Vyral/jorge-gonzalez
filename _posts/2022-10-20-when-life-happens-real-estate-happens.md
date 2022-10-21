@@ -16,7 +16,7 @@ youtube_code: 1nL-Bop2uS0
 
 {% include excerpt.html %}
 
-Did you miss your chance to buy at record-low rates or sell at peak prices? I want to give you something to think about. There’s a simple saying to keep in mind when it’s time for you to sell: “When life happens, real estate happens”.
+Did you miss your chance to buy at record-low rates or sell at peak prices? I want to give you something to think about. There’s a simple saying to keep in mind when it’s time for you to sell: “When life happens, real estate happens”. Today I'll talk about why people will always need to buy or sell a home, regardless of the market.
 
 **Feel free to watch the full message above, or use these timestamps that will direct you to various points in the video:**
 

@@ -4,7 +4,8 @@ title: When Life Happens, Real Estate Happens
 date: 2022-10-20 05:00:00
 tags:
 excerpt: Life happens regardless of a changing market. Here’s what to remember.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jorge+Gonzalez/When+Life+Happens%2C+Real+Estate+Happens.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:

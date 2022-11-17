@@ -5,7 +5,8 @@ date: 2022-11-16 16:30:00
 tags:
   - Real Estate
 excerpt: Thank you for enabling us to give back during the holiday season.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jorge+Gonzalez/Giving+Back+During+the+Holiday+Season.mp4
 pullquote: We truly feel honored to serve our community.
 enclosure_type: video/mp4
 enclosure_time:

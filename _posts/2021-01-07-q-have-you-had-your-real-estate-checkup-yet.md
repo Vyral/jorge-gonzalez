@@ -14,10 +14,9 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/real-estate-checkup-yt.jpg
 youtube_code: EkUX_WfKLkA
 ---
-
 {% include youtube.html %}
 
-As we begin a new year, it’s common for many people to think about accomplishing new goals or improving upon old goals they set the previous year. It’s also common for people to visit a doctor for a quick checkup to make sure they’re on track to stay healthy for the coming year. Do you ever think of doing the same thing with your finances and assets? Today I’ll discuss the importance of doing a real estate checkup in 2021.&nbsp;
+As we begin a new year, it’s common for many people to think about accomplishing new goals or improving upon old goals they set the previous year. It’s also common for people to visit a doctor for a quick checkup to make sure they’re on track to stay healthy for the coming year. Do you ever think of doing the same thing with your finances and assets? Today I’ll discuss the importance of doing a real estate checkup in the New Year.&nbsp;
 
 **Feel free to watch the video above in its entirety or use these timestamps to skip ahead to various sections at your leisure:&nbsp;**
 

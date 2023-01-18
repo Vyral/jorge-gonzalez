@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You Don’t Want To Miss Our Homebuyer Workshops
+title: You’re Invited to Our Next Home Buying Seminar
 date: 2023-01-16 05:00:00
 tags:
 excerpt: I hope to see you at my homebuyer workshop and help you as much as I can!
@@ -26,10 +26,10 @@ If you've been paying attention to the housing market, you're probably confused 
 
 2:14 — Homeownership is better than simply saving money on your own
 
-2:51 — Make sure to join us for our homebuyer workshops&nbsp;
+2:51 — Make sure to join us for our homebuyer seminars&nbsp;
 
-4:09 — How to join the workshops&nbsp;
+4:09 — How to register for the seminars&nbsp;
 
 5:00 — Wrapping up
 
-If you have more questions about the workshops or anything that’s related to real estate, call or email me. I’m always happy to help\! You can also **[click this link to learn more about the workshops.](https://www.eventbrite.com/e/buyers-seminar-how-to-buy-in-todays-market-tickets-511976735197){: target="_blank" rel="noopener"}**
+If you have more questions about the workshops or anything that’s related to real estate, call or email me. I’m always happy to help\! You can also **[click this link to learn more about the seminars.](https://www.eventbrite.com/e/buyers-seminar-how-to-buy-in-todays-market-tickets-511976735197){: target="_blank" rel="noopener"}**

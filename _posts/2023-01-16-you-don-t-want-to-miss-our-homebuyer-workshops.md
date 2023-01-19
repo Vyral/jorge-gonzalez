@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/buyer-seminar-yt.jpg
+youtube_alternate_image: /uploads/buyer-seminar-yt-1.jpg
 youtube_code: mjdcBMgl4GM
 ---
 {% include youtube.html %}

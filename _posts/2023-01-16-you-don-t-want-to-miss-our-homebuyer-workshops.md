@@ -32,4 +32,4 @@ If you've been paying attention to the housing market, you're probably confused 
 
 5:00 — Wrapping up
 
-If you have more questions about the workshops or anything that’s related to real estate, call or email me. I’m always happy to help\! You can also **[click this link to learn more about the seminars.](https://www.eventbrite.com/e/buyers-seminar-how-to-buy-in-todays-market-tickets-511976735197){: target="_blank" rel="noopener"}**
+If you have more questions about the workshops or anything that’s related to real estate, call or email me. I’m always happy to help! You can also **[click this link to learn more about the seminars.](https://www.eventbrite.com/e/buyers-seminar-how-to-buy-in-todays-market-tickets-511976735197){: target="_blank" rel="noopener"}**

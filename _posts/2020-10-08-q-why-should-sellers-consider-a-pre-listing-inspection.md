@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Why Should Sellers Consider a Pre-Listing Inspection?'
-date: 2020-10-08 19:49:00
+date: 2023-06-27 05:00:00
 tags:
   - Home Seller Tips
 excerpt: Here’s why home inspections are more than just a buying contingency.
@@ -14,7 +14,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/home-inspections-yt.jpg
 youtube_code: MirmcYp4l2Q
 ---
-
 {% include youtube.html %}
 
 Whether you’re on the buying side of a transaction and want to make sure that everything in the home you have under contract is in proper, working condition or you’re a seller wanting to cover all your bases, home inspections are so important. Unfortunately, inspections on the selling side are often dismissed as unnecessary.&nbsp;
@@ -35,4 +34,4 @@ If we find a serious issue, we can do something about it before putting the home
 
 **I have some great inspectors and contractors that can help with these problem areas** and more, and I’d be more than happy to refer them to you. Do yourself a favor and preserve your negotiating power as a seller; get a pre-listing inspection.&nbsp;
 
-As always, if you have further questions about this or any other real estate topic, feel free to reach out to me. Also, don’t hesitate to give me a call or send an email if you’d like some personalized advice on how to proceed with your home sale. I’m here and ready to help\!
+As always, if you have further questions about this or any other real estate topic, feel free to reach out to me. Also, don’t hesitate to give me a call or send an email if you’d like some personalized advice on how to proceed with your home sale. I’m here and ready to help!

@@ -106,7 +106,7 @@ podcast:
     buyer
   author: Jorge Gonzalez
 images:
-  client_headshot_path: /img/headshot.jpg
+  client_headshot_path: /img/headshot.png
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: Miami Real Estate Video Blog

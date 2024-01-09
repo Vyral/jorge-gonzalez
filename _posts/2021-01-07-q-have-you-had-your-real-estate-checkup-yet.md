@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Have You Had Your Real Estate Checkup Yet?'
-date: 2023-01-03 10:00:00
+date: 2024-01-09 05:00:00
 tags:
   - Real Estate
 excerpt: Now’s the time to conduct a real estate checkup for 2023.
@@ -18,7 +18,7 @@ youtube_code: EkUX_WfKLkA
 
 As we begin a new year, it’s common for many people to think about accomplishing new goals or improving upon old goals they set the previous year. It’s also common for people to visit a doctor for a quick checkup to make sure they’re on track to stay healthy for the coming year. Do you ever think of doing the same thing with your finances and assets? Today I’ll discuss the importance of doing a real estate checkup in the New Year.&nbsp;
 
-**Feel free to watch the video above in its entirety or use these timestamps to skip ahead to various sections at your leisure:&nbsp;**
+**Feel free to watch the video above in its entirety or use these timestamps to skip ahead to various sections at your leisure:**&nbsp;
 
 1:27—How often do you think about the value your home has accumulated?&nbsp;
 

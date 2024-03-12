@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Ways To Discover What Your Home Is Really Worth
-date: 2024-03-12 06:00:00
+date: 2024-03-11 06:00:00
 excerpt:
 enclosure:
 pullquote:

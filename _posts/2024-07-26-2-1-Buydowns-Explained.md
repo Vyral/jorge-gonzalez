@@ -8,7 +8,7 @@ pullquote: This situation can be a win-win for buyers and sellers.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/2-1.jpg
+youtube_alternate_image: /uploads/2-10.jpg
 youtube_code: smMjOoRjKUY
 ---
 {% include youtube.html %}

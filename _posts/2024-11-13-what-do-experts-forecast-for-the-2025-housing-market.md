@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/2-1-1.jpg
-youtube_code:
+youtube_code: 254r7Yt5dDU
 ---
 {% include youtube.html %}<br><br>Right now, the No. 1 question I’m getting is, *“What’s going to happen to the housing market in 2025?”* I get it; a lot of people had plans to move this year but put things on hold due to higher mortgage rates and a slowing market. This begs the question: Will 2025 be any different? The short answer is yes, although there probably won’t be a dramatic shakeup that flips the market on its head. Today, I’m going over what the top experts are forecasting for mortgage interest rates, home prices, and buyer demand in 2025. Plus, I’ll share my insights on how you can get ready for these changes before the new year even starts:
 
@@ -21,6 +21,6 @@ youtube_code:
 
 **2\. Home prices will increase slightly.** While home prices have stagnated recently or even come down in some areas of the country, prices are projected to rise in 2025. Different institutions have varying forecasts, but prices are expected to rise [2\.6%](https://www.keepingcurrentmatters.com/2024/10/21/what-to-expect-from-mortgage-rates-and-home-prices-in-2025) when you average their predictions. This is a modest increase compared to what we’ve seen over the last few years, but it projects stability for our market. Homeowners don’t have to worry about prices crashing, while things will stay relatively affordable for new buyers.
 
-{% include pullquote.html %}<br><br>**3\. More buyers will enter the market.** Lower interest rates and steady prices mean demand for homes will increase. According to the Senior Economist at Wells Fargo, *“Lower financing costs will likely boost demand by pulling affordability-crunched buyers off of the sidelines.”* As these buyers enter the market, the pace will speed up. Homes will sell faster, competition will increase, and supply will decrease as more buyers fight over fewer options.
+{% include pullquote.html %}<br>**3\. More buyers will enter the market.** Lower interest rates and steady prices mean demand for homes will increase. According to the Senior Economist at Wells Fargo, *“Lower financing costs will likely boost demand by pulling affordability-crunched buyers off of the sidelines.”* As these buyers enter the market, the pace will speed up. Homes will sell faster, competition will increase, and supply will decrease as more buyers fight over fewer options.
 
 So what does this all mean for you? If you want to sell, 2025 is looking to be a great year for the market, so I recommend you start planning your move now so you can get a head start. On the other hand, buyers need to act fast. There will be a very short window where rates are lower, but home prices haven’t increased yet. If you’d like to plan for 2025, whether you’re looking to sell or buy, please call or email me. I’d love to help you plan your next move!

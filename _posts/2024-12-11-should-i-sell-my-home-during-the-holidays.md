@@ -19,8 +19,6 @@ youtube_code: 2wa-kKVMSrA
 
 {% include excerpt.html %}
 
-*I explain why it still makes sense to sell your home during the holidays, from motivated buyers to lower housing inventory.*<br>
-
 Do you need to sell your home soon but are afraid no one will want to buy during the holidays? Conventional real estate wisdom says that no one is looking to purchase a house this time of year. After all, everyone’s kids are home from school, and they must be incredibly busy from the holidays, right?
 
 The truth is that most people move when they need to, not when they want to. You can still get a great deal during the holiday season for your home sale; in fact, there are even a few key advantages. Here are three reasons why you should consider selling your home during the holidays:

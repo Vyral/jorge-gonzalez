@@ -16,6 +16,8 @@ youtube_code: w52jZ0cHLus
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 Happy holidays to you!
 
 The holiday season has officially arrived. We hope you enjoy this wonderful time of year and make some fantastic memories.

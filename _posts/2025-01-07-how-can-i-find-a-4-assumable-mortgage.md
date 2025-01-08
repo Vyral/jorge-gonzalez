@@ -18,6 +18,8 @@ youtube_code: Br9rhqDVGDA
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 Want to buy a home but don’t want to deal with higher interest rates? I get it; despite a lot of noise about the Federal Reserve lowering interest rates recently, the fact remains that rates are currently much higher than they were a few years ago, when receiving a 4% or even 3% rate was possible. However, there is a way to get that 4% rate, even today: Assumable mortgages. Assuming someone else’s mortgage with a lower rate can save you thousands over the course of your loan, but the process can be a little tricky. That’s why today, I’m sharing how you can assume someone’s mortgage in three steps.
 
 **1\. Have your agent find a list of potential mortgages.** Your agent should have access to tax records and mortgage information that will allow them to find out which homeowners in an area purchased their house when rates were lower. They can create a list of mortgages in this area that you would want to assume. From there, you need to confirm that a seller’s mortgage is actually assumable before going forward. For example, most VA loans are assumable, but not many conventional loans are. You also need to qualify for whatever loan you want to assume, so make sure you work closely with your agent to ensure you have a list of quality leads.

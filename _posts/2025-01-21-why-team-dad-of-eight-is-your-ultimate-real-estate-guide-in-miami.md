@@ -17,6 +17,8 @@ youtube_code: HN_3uQU6iwI
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 Are you looking for a team of experts to guide your real estate journey? Let me introduce myself, Jorge Gonzalez, and my Team Dad of Eight. We’re a group of dedicated professionals proudly operating under Keller Williams Realty in Miami, Florida. Here’s a little more about us:
 
 I began my real estate career in 1986, initially focusing on multifamily apartment buildings as both an investor and a realtor. Since 2013, I’ve specialized in residential real estate and small multifamily properties like duplexes and fourplexes. With hundreds of transactions completed, I use my decades of experience to provide expert guidance to my clients.

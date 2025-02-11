@@ -18,7 +18,7 @@ youtube_code: 0bwAdD2rLHM
 ---
 {% include youtube.html %}
 
-{% include youtube.html %}
+{% include excerpt.html %}
 
 Are you selling your home this year? If so, you’ve probably wondered what exactly you need to disclose to potential buyers. Seller disclosures are more important than ever in 2025, and understanding them is key to avoiding legal headaches and closing deals quickly. Transparency isn’t just a courtesy—it’s a necessity if you want to be legally protected. Here’s a breakdown of what you need to know about seller disclosures to ensure a smooth and successful home sale:
 

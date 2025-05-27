@@ -20,7 +20,7 @@ youtube_code: belOyZvq7QA
 
 {% include excerpt.html %}
 
-Spring is finally here, which means more buyers, more listings, and, of course, the question that always comes up: What upgrades are truly worth the money when it’s time to sell? It’s crucial to know where to put your effort, time, and money to make sure you get the best return. Before grabbing a paintbrush or starting a major remodel, let’s go over the three key things you need to keep in mind this season:
+Summer is finally here, which means more buyers, more listings, and, of course, the question that always comes up: What upgrades are truly worth the money when it’s time to sell? It’s crucial to know where to put your effort, time, and money to make sure you get the best return. Before grabbing a paintbrush or starting a major remodel, let’s go over the three key things you need to keep in mind this season:
 
 **1\. Skip expensive mistakes.** One of the biggest mistakes homeowners can make is investing heavily in high-end kitchen remodels, extravagant landscaping, or leaving projects unfinished. Buyers prefer homes that feel clean, well-maintained, and ready to move in. If you start a project, be sure to finish it. A missing cabinet or incomplete tile job can leave a bad impression and end up costing you more than you think.
 
@@ -30,4 +30,4 @@ Spring is finally here, which means more buyers, more listings, and, of course, 
 
 **3\. Choose the right contractor.** Selecting the right contractor is crucial for any renovation project. It’s important to find someone you can trust to get the job done right and within budget. Ask for recommendations from friends, family, or local online groups. Once you’ve found a few options, get multiple quotes, check if they are licensed, and ask to see examples of their past work. A good contractor will guide you through the process to ensure the job is done right.
 
-If you’re planning to sell this spring and want to focus on upgrades that add real value, not just the expensive ones, let’s talk. Every market is unique, and I can help you determine which upgrades will make the most sense for your home and timeline. Call or send me an email to schedule a free strategy session, and together, we’ll work on getting you the best return this spring.
+If you’re planning to sell this summer and want to focus on upgrades that add real value, not just the expensive ones, let’s talk. Every market is unique, and I can help you determine which upgrades will make the most sense for your home and timeline. Call or send me an email to schedule a free strategy session, and together, we’ll work on getting you the best return this summer.

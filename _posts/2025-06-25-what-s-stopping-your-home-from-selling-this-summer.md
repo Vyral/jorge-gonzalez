@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/selling-quickly-pre-listing-inspection-3.jpg
-youtube_code: 5VdHqoyT6kU
+youtube_code: 4Iujg7Zmj6Q
 ---
 {% include youtube.html %}
 

@@ -20,6 +20,8 @@ youtube_code: USmhuil3AvU
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 The market has changed. Homes aren’t selling as quickly as last year, and buyers are taking their time. With more listings available, it’s not enough to simply put your home on the market and hope for the best. If your home isn’t prepared, it could sit longer than expected or face price reductions. The good news is that you can avoid that. With the right steps, you can still sell quickly and for a strong price. Here’s what I recommend for every seller who wants to stand out in today’s market:
 
 **1\. Fix small problems before you list.** Buyers are cautious right now. Higher interest rates have made them more careful with their money. They’re looking for homes that don’t need extra work. Minor repairs—like patching walls, fixing a loose handle, or replacing outdated light fixtures—can make a big difference. These details show that your home is move-in ready and reduce the risk of inspection delays later.

@@ -13,7 +13,7 @@ pullquote: 'There’s a lot more you need to pay for than just down payment cost
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/what-are-the-hidden-costs-of-buying-a-home-in-2025.png
+youtube_alternate_image: /uploads/what-are-the-hidden-costs-of-buying-a-home-in-2025.jpg
 youtube_code: jqXdPWPSMOU
 ---
 {% include youtube.html %}

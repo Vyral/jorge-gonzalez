@@ -31,7 +31,7 @@ After I walked through the property and analyzed local buyer demand, we listed t
 
 So, let’s break down what these tools do well, where they fall short, and how to ensure your pricing strategy helps you avoid losing out on thousands.
 
-**What AI does well in home valuation.** AI tools have come a long way by 2025. They pull in tons of [data from public records, MLS sales, and even tax info](https://www.riskwire.com/how-ai-is-transforming-property-valuation/) to give you a quick estimate of your home’s value.
+**What AI does well in home valuation.** AI tools have come a long way by 2025. They pull in tons of [data from public records, MLS sales, and even tax info](https://www.riskwire.com/how-ai-is-transforming-property-valuation/){: target="_blank" rel="noopener"} to give you a quick estimate of your home’s value.
 
 If you’re in a neighborhood with cookie-cutter houses, like a suburban subdivision where every home’s got a similar vibe, these tools can be pretty spot-on. They’re awesome for getting a ballpark figure without picking up the phone to call an agent. Plus, they’re always learning, tweaking their numbers based on stuff like interest rates and market trends. It’s fast, it’s easy, and it’s a solid starting point.
 

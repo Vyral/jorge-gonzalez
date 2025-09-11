@@ -23,11 +23,11 @@ If you’re thinking about selling your home this year, you’ve probably checke
 
 Before you list your home with an AI price estimate, you need to hear this:
 
-I recently worked with a client just outside of town who was ready to sell their four-bedroom home in a competitive market and decided to use an AI tool for a pricing estimate. AI pulled data from recent sales nearby, adjusted for square footage, and looked at market trends. It estimated their home’s value at $620,000.
+*I recently worked with a client on the west side of town who was ready to sell their four-bedroom home in a competitive market and decided to use an AI tool for a pricing estimate. AI pulled data from recent sales nearby, adjusted for square footage, and looked at market trends. It estimated their home’s value at approximately $1,100,000.*
 
-However, it missed some key features: a $70,000 kitchen renovation with high-end appliances, a full smart-home upgrade, and a prime location on a quiet cul-de-sac with greenbelt views. None of these factors was reflected in the AI estimate.
+*However, it missed some key features: a $70,000 kitchen renovation with high-end appliances, a prime location on a quiet cul-de-sac, and a very large resort-style backyard. It also failed to take some recent market activity from Pending Sales into consideration. None of these factors were reflected in the AI estimate.*
 
-After I walked through the property and analyzed local buyer demand, we listed the home at $685,000 and received multiple offers within days. **That’s a $65,000 difference between the AI estimate and the actual market value.**
+*After I walked through the property and analyzed local buyer demand, we listed the home at $1,325,000 and received multiple offers within days. **That’s a $225,000 difference between the AI estimate and the actual market value.***
 
 So, let’s break down what these tools do well, where they fall short, and how to ensure your pricing strategy helps you avoid losing out on thousands.
 

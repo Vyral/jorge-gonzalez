@@ -41,7 +41,7 @@ When financing fails, sellers are left scrambling, often after already pulling t
 
 {% include pullquote.html %}
 
-When neither side can bridge the difference, the deal may collapse. What you can do is * * price your home realistically from the start. Overpricing often leads to appraisal gaps and stressful renegotiations. A competitive, data-driven list price helps attract serious buyers who can follow through.
+When neither side can bridge the difference, the deal may collapse. What you can do is \* \* price your home realistically from the start. Overpricing often leads to appraisal gaps and stressful renegotiations. A competitive, data-driven list price helps attract serious buyers who can follow through.
 
 **4\. Cold feet or buyer’s remorse.** Sometimes the problem isn’t financial, it’s emotional. Buying a home is a big commitment, and buyers can get spooked. They may second-guess the decision, compare it to another property, or simply feel overwhelmed.
 

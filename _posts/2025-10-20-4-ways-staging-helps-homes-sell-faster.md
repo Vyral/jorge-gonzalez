@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/4-ways-staging-helps-homes-sell-faster.jpg
-youtube_code: 74bYll1N1gs
+youtube_code: hkxiR8qen4o
 ---
 {% include youtube.html %}
 

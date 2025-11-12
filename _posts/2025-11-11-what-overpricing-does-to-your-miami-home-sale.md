@@ -35,4 +35,4 @@ One wrong number can derail your home sale before it even starts. Pricing your h
 
 Overpricing is one of the biggest mistakes a seller can make. Use real data, know your market, and price your home carefully. Doing this helps your home sell faster, attracts strong buyers, and protects your money.
 
-If you have questions about pricing or want help creating a plan to sell your home, reach out to [**(305) 239-8939**](tel:3052398939){: target="_blank" rel="noopener"} ** ** or ** ** [**(305) 898-6224**](tel:3058986224){: target="_blank" rel="noopener"}**,** or send an email to ** ** [**Jorge@DadOf8RealEstate.com**](mailto:Jorge@DadOf8RealEstate.com){: target="_blank" rel="noopener"}. I’m here to help every step of the way.
+If you have questions about pricing or want help creating a plan to sell your home, reach out to [**(305) 239-8939**](tel:3052398939){: target="_blank" rel="noopener"} \*\* \*\* or \*\* \*\* [**(305) 898-6224**](tel:3058986224){: target="_blank" rel="noopener"}**,** or send an email to \*\* \*\* [**Jorge@DadOf8RealEstate.com**](mailto:Jorge@DadOf8RealEstate.com){: target="_blank" rel="noopener"}. I’m here to help every step of the way.

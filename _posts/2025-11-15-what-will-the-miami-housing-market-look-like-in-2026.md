@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Will the Miami Housing Market Look Like in 2026?
-date: 2025-11-15 00:00:00
+date: 2025-11-22 00:00:00
 tags:
 excerpt: >-
   From shifting rates to tighter budgets, the 2026 market is setting up to look

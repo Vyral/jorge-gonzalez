@@ -22,7 +22,7 @@ youtube_code: 9eH59JMINeU
 
 Can you really keep your mortgage when you move? That’s the big idea behind something called a portable mortgage, and it’s starting to get people’s attention.
 
-Imagine selling your current home and buying a new one, *and* getting to keep your low-interest mortgage. Sounds almost too good to be true, right? Well, it’s not available yet, but it’s a concept that's being discussed more and more in the housing world.
+Imagine selling your current home and buying a new one, *and* getting to keep your low-interest mortgage. Sounds almost too good to be true, right? Well, it’s not available yet, but it’s a concept that’s being discussed more and more in the housing world.
 
 Here’s what you need to know.
 
@@ -38,6 +38,6 @@ Let’s say you got a mortgage a few years ago with a 3% interest rate. Now, mor
 
 An additional fact is that this is still just an idea in the U.S. It’s already used in places like Canada and the UK, but it hasn’t been rolled out here yet. Even if it does become available, not all lenders may offer it. And even if they do, you’d still have to qualify for the new home and cover any price difference with cash or a second loan.
 
-Plus, this wouldn't fix everything; first-time buyers and renters still face big challenges with rising home prices and saving for a down payment. So, while portable mortgages could help some people, it’s not a one-size-fits-all solution.
+Plus, this wouldn’t fix everything; first-time buyers and renters still face big challenges with rising home prices and saving for a down payment. So, while portable mortgages could help some people, it’s not a one-size-fits-all solution.
 
 If you already have a low-rate mortgage and are thinking about moving in the next few years, it’s worth keeping an eye on this. Portable mortgages could help you make that move without giving up the great deal you already have. It’s not available yet, but if the rules change, being ready could give you a big head start.<br><br>Want to learn how this could affect your next move or if you qualify for special lending options? Call me at [**305-239-8939**](tel:305-239-8939) or [**305-898-6224**](tel:305-898-6224), or email me anytime at [**Jorge@DadOf8RealEstate.com**](mailto:Jorge@DadOf8RealEstate.com). I’ll be happy to walk you through your options in today’s changing market.

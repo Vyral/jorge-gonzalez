@@ -68,6 +68,6 @@ Think of it this way: *AI provides information, but a trusted professional helps
 
 After several years of uncertainty and constant shifts, the 2026 housing market has finally settled into a more stable pattern. Rates are easing, inventory is improving, and buyer and seller expectations are becoming clearer.
 
-If you want a personalized breakdown of how these trends apply to your neighborhood, I’m here to help. Whether you're buying, selling, refinancing, or planning ahead, we can walk through your options so you feel confident about your next move.
+If you want a personalized breakdown of how these trends apply to your neighborhood, I’m here to help. Whether you’re buying, selling, refinancing, or planning ahead, we can walk through your options so you feel confident about your next move.
 
 Feel free to call, text, or email me to [**schedule a free one-on-one strategy call**](https://jorge-gonzalez-strategy-call.paperform.co/){: target="_blank" rel="noopener"}. We’ll look at your numbers, your timing, and your local market so you feel confident about the road ahead.

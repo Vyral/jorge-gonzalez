@@ -8,7 +8,7 @@ excerpt: >-
   agreements to secure your next property without the risk of two mortgages.
 enclosure:
 pullquote: >-
-  uying before you sell is a strategic move that requires the right financial
+  Buying before you sell is a strategic move that requires the right financial
   safety net.
 enclosure_type: video/mp4
 enclosure_time:

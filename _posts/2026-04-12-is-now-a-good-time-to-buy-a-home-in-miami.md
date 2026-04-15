@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/is-now-a-good-time-to-buy-a-home-in-miami-2.jpg
-youtube_code: FlILOrlDncA
+youtube_code: rJZ-NwOeX6c
 ---
 {% include youtube.html %}
 
